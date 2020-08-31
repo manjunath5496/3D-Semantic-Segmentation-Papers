@@ -32,7 +32,8 @@ Submanifold Sparse Convolutional Networks</a></li>
                               
 <li><a target="_blank" href="https://github.com/manjunath5496/3D-Semantic-Segmentation-Papers/blob/master/3ds(15).pdf" style="text-decoration:none;">DeepGCNs: Can GCNs Go as Deep as CNNs?</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/3D-Semantic-Segmentation-Papers/blob/master/3ds(16).pdf" style="text-decoration:none;">Loop quantum cosmology and slow roll inflation</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/3D-Semantic-Segmentation-Papers/blob/master/3ds(16).pdf" style="text-decoration:none;">Deep Projective 3D Semantic
+Segmentation</a></li>
 
   <li><a target="_blank" href="https://github.com/manjunath5496/3D-Semantic-Segmentation-Papers/blob/master/3ds(17).pdf" style="text-decoration:none;">4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks</a></li>   
   
